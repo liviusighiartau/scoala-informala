@@ -39,7 +39,7 @@ h2 {
 .background-image {
     position: relative;
     width: 100%;
-    background-image: url("my-background-photo.png");
+    background-image: url("../images/my-background-photo.png");
     background-position: center;
     background-repeat: no-repeat;
     height: 450px;
