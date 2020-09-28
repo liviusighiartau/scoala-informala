@@ -8,7 +8,6 @@ A: reverse() - Reverse the elements of the list in place.
 A: sort(key=None, reverse=False) - Sort the items of the list in place (the arguments
 can be used for sort customization, see sorted() for their explanation)
 """
-from operator import attrgetter
 
 color = ['orange', 'blue', 'red', 'green', 'black', 'brown', 'grey', 'black', 'green', 'green']
 
