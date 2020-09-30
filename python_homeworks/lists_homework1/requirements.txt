@@ -1,0 +1,9 @@
+Q: Which are the methods which have not been presented?
+
+A: copy() - Return a shallow copy of the list. Equivalent to a[:]
+A: count(x) - Return the number of times x appears in the list
+A: index(x[, start[, end]]) - Return zero-based index in the list of the
+first item whose value is x
+A: reverse() - Reverse the elements of the list in place.
+A: sort(key=None, reverse=False) - Sort the items of the list in place (the arguments
+can be used for sort customization, see sorted() for their explanation)
