@@ -2,4 +2,4 @@
 2. Replace the last element in the list with the string "last" using list comprehension and tuples.
 3. Extract only the strings from the following list using list comprehension:
     slist = ['I', 'am', 1, 'list', 'of', 5 , 'strings']
-4. Generate a 3 by 3 matrix that contains 'X' on the main diagonal and '_' in the rest.
+4. Generate a 3 by 3 by 3 matrix that contains 'X' on the main diagonal and '_' in the rest.
